@@ -1,0 +1,41 @@
+* {
+margin: 0;
+padding:0;
+text-decoration: none;
+}
+
+header{
+    background-color: bisque;
+    height: 17vh;
+    font-size:30px;
+    color: brown;
+    padding-top:10px;
+    }
+
+h1 {
+    padding-top:30px;
+    padding-left:20px;
+}
+
+a {
+    border: 1px solid purple;
+    color: brown;
+    text-align: center;
+    padding:5px;
+    
+}
+
+.box4 {
+    text-align: right;
+    padding-right:10px;
+
+}
+
+footer {
+    background-color:#fecf95;
+    margin-top: 650px;
+    height:15vh;
+    font-size: 30px; 
+    text-align: center;
+    color:brown;
+} 
